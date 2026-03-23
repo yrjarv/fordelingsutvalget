@@ -8,7 +8,7 @@ published: true
 * TOC
 {:toc}
 
-## Sirkulasjonsak - Linjefesten V25 {#sirkulasjonssak}
+## Sirkulasjonsak - Linjefesten V26 {#sirkulasjonssak}
 
 Kjære medlemsforeninger i Fordelingsutvalget,
 
