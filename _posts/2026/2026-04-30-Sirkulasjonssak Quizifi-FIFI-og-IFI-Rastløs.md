@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: SSirkulasjonssak Quizifi, FIFI, og IFI-Rastløs
+title: Sirkulasjonssak Quizifi, FIFI, og IFI-Rastløs
 subheadline: "Sirkulasjonsak"
 published: true
 ---
@@ -20,19 +20,17 @@ Med vennlig hilsen,
 Sandra Marie Kubosch
 FU-Koordinator
 
-
-
 ### For
 * Maps
-
-### Avholdende
-* Cyb
+* Digitus
+* Mikro
+* ProgSys
+* Navet
 * Dagen@ifi
 * Defi
-* Digitus
-* FUI
-* Maki
-* Mikro
-* Navet
-* ProgSys
+* Cyb
 * Sifi
+* FUI
+
+### Mot
+* Maki
